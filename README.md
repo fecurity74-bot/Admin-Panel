@@ -14,7 +14,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<your-username>/minecraft-admin-panel.git
-cd minecraft-admin-panel
+git clone https://github.com/fecurity74-bot/Admin-Panel.git
+cd admin-panel
 npm install
 npm run dev
